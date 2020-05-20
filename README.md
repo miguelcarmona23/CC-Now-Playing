@@ -1,5 +1,5 @@
 # CC-Now-Playing
-This is a instant messaging chat app that uses a custom-made UI and with websockets using Node.js, Express and Socket.io.
+This is a movie theaters now playing page built with Vue
 
 ![Image description](/img/project_thumbnail.png)
 
